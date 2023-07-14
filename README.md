@@ -3,7 +3,6 @@
 
 <h2>Data Analyst Projects:</h2>
 
-- <b>Data Analyst Lab</b>
 
 <h2>Certifications</h2>
 <ul>Executive Management</ul>
