@@ -11,9 +11,9 @@
 <ul>Project Management- Lean Process Certified </ul>
 <ul>Lean Six Sigma Green Belt</ul>
 
-<h3>Connect with me:</h3>
+<h3>Connect with me</h3>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/azunderwood
