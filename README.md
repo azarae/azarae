@@ -1,7 +1,7 @@
 <h1>Hi, I'm Az!</h1>
 <h2><a href="https://github.com/azarae">Data Analyst</a>, <a href="https://www.linkedin.com/in/azunderwood/"> Tranportation Logistics Manager </a> </h2>
 
-<h2>Data Analyst Projects:</h2>
+<h2>Data Analyst Projects</h2>
 
 
 <h2>Certifications</h2>
